@@ -1,0 +1,6 @@
+* Steps to deploy this site on github pages.
+
+1. npm run build 
+2. This created a dist folder . 
+3. Now add files of only this "dist" folder to another branch, called 'gh-pages'.
+4. Then go to pages in github setting and deployed site from this new branch (gh-pages).
